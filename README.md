@@ -1,0 +1,2 @@
+# goHello
+go test hello
